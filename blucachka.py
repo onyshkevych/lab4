@@ -76,4 +76,4 @@ class Friend:
     def describe(self):
         print (f"{self.name} може підтримати тебе {self.description}")
     def help(self):
-        print("Я тобі допоможу.")    
+        print("Я тобі допоможу.")          
